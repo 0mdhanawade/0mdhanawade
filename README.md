@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @0mdhanawade
+- 👋 Hi, I’m Om dhanawade
 - 👀 I’m interested in internship for frontend
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on any company 
